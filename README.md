@@ -1,5 +1,15 @@
 # 💫 About Me:
-I'm currently working on a math practice device using Rasberry Pi. I'm lokking for collaborate on begineer-friendly coding or hardware prjects. I'mlooking for help with Python, Pygame, and building interactive systems.Also eletronics like circuit designs.I'm currently learning programming, eletronics, and is planning to learn 3D modeling using fusion 360 when I finish the code and the eletronincs of my project. Ask me about Rasberry Pi, math prctice machine tools, or learning coding as a student.<br>Fun fact: I enjoy turnung learning into fun games!<br>
+I’m building a math practice device with Raspberry Pi rn 👀
+Looking to collab on beginner-friendly coding or hardware projects!
+
+I’m into Python, Pygame, interactive systems, and messing around with electronics (circuits, etc.).
+Still learning, but that’s kinda the fun part.
+
+Planning to get into Fusion 360 for 3D stuff once I finish the code + hardware side of my project.
+
+Feel free to ask me anything about Raspberry Pi, making learning tools, or learning to code as a student :)
+
+Fun fact: I lowkey love turning studying into games 🎮
 
 
 ## 🌐 Socials:
